@@ -1,0 +1,6 @@
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\ItsAFunnyOldWorld\obj\Debug\ItsAFunnyOldWorld.csprojResolveAssemblyReference.cache
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\ItsAFunnyOldWorld\bin\Debug\ItsAFunnyOldWorld.exe.config
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\ItsAFunnyOldWorld\bin\Debug\ItsAFunnyOldWorld.exe
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\ItsAFunnyOldWorld\bin\Debug\ItsAFunnyOldWorld.pdb
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\ItsAFunnyOldWorld\obj\Debug\ItsAFunnyOldWorld.exe
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\ItsAFunnyOldWorld\obj\Debug\ItsAFunnyOldWorld.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "ConsoleApp1\GuessTheNumber.csproj", "{B23F46B3-173F-4FC7-B102-A452184FE5BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialLoop", "FactorialLoop\FactorialLoop.csproj", "{B30D62C9-E963-4E7E-8343-B7196DEE6CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortEg", "BubbleSortEg\BubbleSortEg.csproj", "{05E6B027-A0D1-44CE-8FB0-6054B73DC2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23F46B3-173F-4FC7-B102-A452184FE5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23F46B3-173F-4FC7-B102-A452184FE5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23F46B3-173F-4FC7-B102-A452184FE5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23F46B3-173F-4FC7-B102-A452184FE5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30D62C9-E963-4E7E-8343-B7196DEE6CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30D62C9-E963-4E7E-8343-B7196DEE6CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30D62C9-E963-4E7E-8343-B7196DEE6CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30D62C9-E963-4E7E-8343-B7196DEE6CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E6B027-A0D1-44CE-8FB0-6054B73DC2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E6B027-A0D1-44CE-8FB0-6054B73DC2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E6B027-A0D1-44CE-8FB0-6054B73DC2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E6B027-A0D1-44CE-8FB0-6054B73DC2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

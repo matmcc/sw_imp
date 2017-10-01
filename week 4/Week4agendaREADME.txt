@@ -1,0 +1,1 @@
+Treat this week as a 'catchup week' ie no new lecture material, but a prac to be undertaken on pseudocode and implementation.

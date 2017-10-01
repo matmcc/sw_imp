@@ -1,0 +1,6 @@
+D:\Users\x220\Dropbox\C_Sharp\code\Software Implementation\week 5\week5_StaticMethods\week5_StaticMethods\obj\Debug\week5_StaticMethods.csprojResolveAssemblyReference.cache
+D:\Users\x220\Dropbox\C_Sharp\code\Software Implementation\week 5\week5_StaticMethods\week5_StaticMethods\bin\Debug\week5_StaticMethods.exe.config
+D:\Users\x220\Dropbox\C_Sharp\code\Software Implementation\week 5\week5_StaticMethods\week5_StaticMethods\bin\Debug\week5_StaticMethods.exe
+D:\Users\x220\Dropbox\C_Sharp\code\Software Implementation\week 5\week5_StaticMethods\week5_StaticMethods\bin\Debug\week5_StaticMethods.pdb
+D:\Users\x220\Dropbox\C_Sharp\code\Software Implementation\week 5\week5_StaticMethods\week5_StaticMethods\obj\Debug\week5_StaticMethods.exe
+D:\Users\x220\Dropbox\C_Sharp\code\Software Implementation\week 5\week5_StaticMethods\week5_StaticMethods\obj\Debug\week5_StaticMethods.pdb

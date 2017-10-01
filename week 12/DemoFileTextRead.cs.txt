@@ -1,0 +1,29 @@
+﻿using System;
+using System.IO;
+
+namespace test
+{
+    class DemoFileTextRead
+    {
+        public static void Main(string[] args)
+        {
+            string line;   // will be used to read a line at a time
+            
+            try
+            {
+                StreamReader reader = new StreamReader("testfile.txt");  // create input stream
+
+                while (reader.EndOfStream == false)           // null returned when no more to be read
+                {
+	                line = reader.ReadLine();  // get next
+                    Console.WriteLine(line); // display line
+                }
+			    reader.Close();
+            }
+            catch(IOException e)
+            {
+                Console.WriteLine("Error has occurred: " + e);
+            }
+        }
+    }
+}

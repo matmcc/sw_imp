@@ -1,0 +1,6 @@
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16wk3\BubbleSortEg\bin\Debug\BubbleSortEg.exe.config
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16wk3\BubbleSortEg\bin\Debug\BubbleSortEg.exe
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16wk3\BubbleSortEg\bin\Debug\BubbleSortEg.pdb
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16wk3\BubbleSortEg\obj\Debug\BubbleSortEg.csprojResolveAssemblyReference.cache
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16wk3\BubbleSortEg\obj\Debug\BubbleSortEg.exe
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16wk3\BubbleSortEg\obj\Debug\BubbleSortEg.pdb

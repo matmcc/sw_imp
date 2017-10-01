@@ -1,0 +1,25 @@
+﻿using System;
+using System.IO;
+
+namespace test
+{
+    class ArrayExceptionTest
+    {
+        public static void Main(string[] args)
+        {
+            int[] values = { 3, 6, 3, 7, 8, 9, 12, 42, 0, 99 };
+	        processarray( values );
+            Console.WriteLine("Program executed to completion.");
+        }
+        
+        public static void processarray( int[] vals )
+        {
+            int index = 5;
+            Console.WriteLine("values["+index+"] is " + vals[index] );
+            index = 20;
+            Console.WriteLine("values["+index+"] is " + vals[index] );
+            index = 7;
+            Console.WriteLine("values[" + index + "] is " + vals[index]);         
+        }
+    }
+}

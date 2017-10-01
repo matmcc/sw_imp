@@ -1,0 +1,12 @@
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16\SoftwareImplementation16\bin\Debug\SoftwareImplementation16.exe.config
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16\SoftwareImplementation16\bin\Debug\SoftwareImplementation16.exe
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16\SoftwareImplementation16\bin\Debug\SoftwareImplementation16.pdb
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16\SoftwareImplementation16\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16\SoftwareImplementation16\obj\Debug\SoftwareImplementation16.exe
+D:\Users\x220\Dropbox\C_Sharp\code\SoftwareImplementation16\SoftwareImplementation16\obj\Debug\SoftwareImplementation16.pdb
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\SoftwareImplementation16\bin\Debug\SoftwareImplementation16.exe.config
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\SoftwareImplementation16\bin\Debug\SoftwareImplementation16.exe
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\SoftwareImplementation16\bin\Debug\SoftwareImplementation16.pdb
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\SoftwareImplementation16\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\SoftwareImplementation16\obj\Debug\SoftwareImplementation16.exe
+D:\Users\x220\OneDrive - Anglia Ruskin University\C_Sharp\code\Software Implementation\week 1\SoftwareImplementation16\obj\Debug\SoftwareImplementation16.pdb
